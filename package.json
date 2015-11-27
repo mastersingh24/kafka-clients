@@ -1,0 +1,29 @@
+{
+  "name": "kafka-clients",
+  "version": "0.9.0-alpha1",
+  "description": "Node client for Apache Kafka 0.9.0 and later",
+  "main": "index.js",
+  "engines": {
+    "node" : ">=0.12"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "apache",
+    "kafka",
+    "client",
+    "0.9.0"
+  ],
+  "author": "Gari Singh",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "buffer-builder": "^0.2.0",
+    "buffer-crc32": "^0.2.5",
+    "buffermaker": "^1.2.0",
+    "debug": "^2.2.0",
+    "hexy": "^0.2.7",
+    "node-int64": "^0.4.0",
+    "uuid": "^2.0.1"
+  }
+}
