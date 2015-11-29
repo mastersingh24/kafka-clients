@@ -4,8 +4,8 @@
 
 This module provides clients for consuming from (kafka-clients.KafkaConsumer) and publishing to (kafka-clients.KafkaProducer) Apache Kafka.  It is loosely modeled after the [Java clients API](http://kafka.apache.org/090/javadoc/index.html) distributed with Apache Kafka.
 
-##API Documentation
-[Kafka Clients](https://github.com/mastersingh24/kafka-clients/wiki/API-Documentation)
+##Documentation
+[Kafka Clients API](https://github.com/mastersingh24/kafka-clients/wiki/API-Documentation)
 
 ##Motivation
 
